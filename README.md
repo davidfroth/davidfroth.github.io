@@ -1,1 +1,1 @@
-# davidfrothingham.github.io
+# davidfroth.github.io
