@@ -30,7 +30,7 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: arch
+    runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.140.0
     steps:
